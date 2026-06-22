@@ -12,8 +12,8 @@
 ---
 
 ### 🛠️ Tech Stack:
-- C#, ASP.NET MVC, Web API  
-- Entity Framework, ADO.NET  
+- C#, ASP.NET MVC, Web API, ASP.NET Core
+- Entity Framework, ADO.NET, Entity Framework Core
 - SQL Server  
 - HTML, CSS, JavaScript, Bootstrap  
 
